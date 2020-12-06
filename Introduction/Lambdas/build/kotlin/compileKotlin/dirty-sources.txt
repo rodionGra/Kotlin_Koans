@@ -1,0 +1,1 @@
+/Users/admin/Documents/Kotlin Koans/Kotlin Koans/Introduction/Lambdas/src/Task.kt

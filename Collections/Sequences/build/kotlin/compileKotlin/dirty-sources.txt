@@ -1,0 +1,2 @@
+/Users/admin/Documents/Kotlin Koans/Kotlin Koans/Collections/Sequences/src/Shop.kt
+/Users/admin/Documents/Kotlin Koans/Kotlin Koans/Collections/Sequences/src/Task.kt
