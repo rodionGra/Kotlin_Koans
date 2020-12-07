@@ -20,7 +20,7 @@ files:
                   .flatMap(Order::products)
                   .maxBy(Product::price)
   - offset: 516
-    length: 195
+    length: 135
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -32,7 +32,7 @@ files:
       return customers
                   .flatMap(Customer::getOrderedProducts)
                   .count { it == product }
-  - offset: 774
+  - offset: 714
     length: 39
     placeholder_text: /* TODO */
     initial_state:
@@ -176,5 +176,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Sun, 06 Dec 2020 14:14:31 UTC
+  time: Mon, 07 Dec 2020 13:21:55 UTC
 record: -1

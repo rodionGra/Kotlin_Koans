@@ -1,3 +1,1 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+*.iml *.apk .gradle /local.properties /.idea/ .DS_Store /build /captures .kotlintest *.icloud
