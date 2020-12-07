@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c150a7fc-926f-4635-9cd0-12aabd541e1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Compound tasks/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Compound tasks/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
@@ -79,6 +79,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="427" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1607082493751" />
+    <state x="368" y="256" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607361249311">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="368" y="256" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1607361249311" />
     <state x="6" y="6" width="1268" height="788" maximized="true" key="DiffContextDialog" timestamp="1607347435472">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
